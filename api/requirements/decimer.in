@@ -4,7 +4,7 @@ DECIMER==2.8.0
 decimer-segmentation==1.5.0
 tensorflow==2.15.1
 numpy>=1.26,<2
-Pillow>=12.3,<13
+Pillow>=13.0.0,<14
 cryptography>=50,<51
 pyasn1>=0.6.4,<0.7
 click>=8.3.3,<9
